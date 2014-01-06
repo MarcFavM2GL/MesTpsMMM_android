@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MMM_TP1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_nom">Nom :</string>
+    <string name="txt_nom_infos">nom de famille</string>
+    <string name="lbl_prenom">Prénom :</string>
+    <string name="txt_prenom_infos">votre prénom</string>
+    <string name="lbl_dateNaiss">Date de naissance :</string>
+    <string name="btn_text_valider">Valider</string>
+    
+	<!-- Trucs utiles -->
+    <string name="retourChariot">\n</string>
+</resources>
